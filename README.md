@@ -1,1 +1,1 @@
-Without multi language support I am try to meet all requirements.
+Without multi language support I am trying to meet all requirements.
